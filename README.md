@@ -17,6 +17,8 @@ The Animal Farm Management System is a Java Swing desktop application built to h
 - File Handling
 - OOP Concepts
 
+## Challenges / Bugs Fixed
+During development, I solved issues involving data saving, user input validation, and improving the interface layout. I also tested different scenarios to improve reliability.
+
 ## Challenges Solved
 During development, I fixed bugs related to data saving, user input validation, and interface responsiveness. I also improved project organization and testing.
-
